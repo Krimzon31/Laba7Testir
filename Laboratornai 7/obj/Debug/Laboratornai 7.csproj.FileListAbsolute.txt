@@ -1,0 +1,14 @@
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai 7.csproj.AssemblyReference.cache
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai 7.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai_7.Form1.resources
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai_7.Properties.Resources.resources
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai 7.csproj.GenerateResource.cache
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai 7.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\bin\Debug\Laboratornai 7.exe.config
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\bin\Debug\Laboratornai 7.exe
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\bin\Debug\Laboratornai 7.pdb
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai 7.exe
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai 7.pdb
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai_7.Form2.resources
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai_7.Form3.resources
+D:\Проекты C#\Laboratornai 7\Laboratornai 7\obj\Debug\Laboratornai_7.Form4.resources
